@@ -7,10 +7,5 @@ MODE: ONLINE
 LANGUAGES : HTML,CSS,JAVASCRIPT
 
 OFFER LETTER:-
-
-
-
-
-
-![Screenshot 2025-02-26 214312](https://github.com/user-attachments/assets/020d66fe-f505-4bf9-ad38-44b0dbdb798e)
+![Uploading DOC-20250127-WA0000.-1.png…]()
 
