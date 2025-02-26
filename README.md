@@ -7,5 +7,6 @@ MODE: ONLINE
 LANGUAGES : HTML,CSS,JAVASCRIPT
 
 OFFER LETTER:-
-![Uploading DOC-20250127-WA0000.-1.png…]()
+
+![DOC-20250127-WA0000 -1](https://github.com/user-attachments/assets/2d58302f-f5fe-49c0-970a-d4f8e19a7e13)
 
